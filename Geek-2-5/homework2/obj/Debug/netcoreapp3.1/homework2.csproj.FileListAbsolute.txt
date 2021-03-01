@@ -1,0 +1,13 @@
+C:\Users\aleda\source\repos\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.exe
+C:\Users\aleda\source\repos\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.deps.json
+C:\Users\aleda\source\repos\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.runtimeconfig.json
+C:\Users\aleda\source\repos\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.runtimeconfig.dev.json
+C:\Users\aleda\source\repos\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.dll
+C:\Users\aleda\source\repos\homework2\homework2\bin\Debug\netcoreapp3.1\homework2.pdb
+C:\Users\aleda\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.csprojAssemblyReference.cache
+C:\Users\aleda\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.AssemblyInfoInputs.cache
+C:\Users\aleda\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.AssemblyInfo.cs
+C:\Users\aleda\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.csproj.CoreCompileInputs.cache
+C:\Users\aleda\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.dll
+C:\Users\aleda\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.pdb
+C:\Users\aleda\source\repos\homework2\homework2\obj\Debug\netcoreapp3.1\homework2.genruntimeconfig.cache
